@@ -1,7 +1,8 @@
 <h1 align="center" > ☄ Bienvenido a mi Perfil ☄</h1>
 <h3 align="center">Mi nombre es Lucas y soy Desarrollador Frontend 🦾</h3>
 
-- 👨‍💻 Me encuentro cursando la carrera Certified Tech Developer en Digital House
+- 📘Cursando actualmente la carrera Certified Tech Developer en Digital House
+- 👨‍💻 Aprendiendo Python y Angular
 - 📫 Contáctame **lvcaszelaya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
