@@ -1,7 +1,8 @@
 <h1 align="center" > ☄ Bienvenido a mi Perfil ☄</h1>
 <h3 align="center">Mi nombre es Lucas y soy Desarrollador Frontend 🦾</h3>
 
-- 👨‍💻 Aprendiendo Python y Angular
+- 👨‍💻 Aprendiendo Python
+- 📕 Mejorando mi nivel de inglés
 - 📫 Contáctame **lvcaszelaya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
