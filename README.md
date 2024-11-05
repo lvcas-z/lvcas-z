@@ -1,7 +1,7 @@
 <h1 align="center" > ☄ Bienvenido a mi Perfil ☄</h1>
 <h3 align="center">Mi nombre es Lucas y soy Desarrollador Frontend 🦾</h3>
 
-- 👨‍💻 Aprendiendo React Native
+- 👨‍💻 Aprendiendo Angular
 - 📕 Mejorando mi nivel de inglés
 - 📫 Contáctame **lvcaszelaya@gmail.com**
 
