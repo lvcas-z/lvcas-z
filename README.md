@@ -8,7 +8,7 @@ enfocado en la construcción de soluciones escalables, mantenibles y orientadas 
 
 ---
 
-### Professional Profile
+### Perfil profesional
 
 - Desarrollo de aplicaciones web utilizando **JavaScript, React y Node.js**
 - Implementación de APIs REST y arquitecturas backend con **Express**
@@ -19,14 +19,14 @@ enfocado en la construcción de soluciones escalables, mantenibles y orientadas 
 
 ---
 
-### Current Focus
+### Aprendiendo
 
 - Profundizando conocimientos en **Next.js**
 - Expansión de habilidades en **C#**
 
 ---
 
-### Technologies & Tools
+### Tecnologias y Herramientas
 
 <p align="left">
 
