@@ -1,7 +1,7 @@
 <h1 align="center" > ☄ Bienvenido a mi Perfil ☄</h1>
 <h3 align="center">Mi nombre es Lucas soy Desarrollador Fullstack 🦾</h3>
 
-- 👨‍💻 Aprendiendo Node JS
+- 👨‍💻 Aprendiendo Next JS
 - 📕 Mejorando mi nivel en C#
 - 📫 Contáctame **lvcaszelaya@gmail.com**
 
