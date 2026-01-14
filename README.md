@@ -1,10 +1,12 @@
-<h1 align="center">Lucas Zelaya</h1>
-<h3 align="center">Fullstack Developer</h3>
+<h1 align="letf">Lucas Zelaya</h1>
+<h3 align="left">Fullstack Developer</h3>
 
-<p align="center">
+<p align="left">
 Desarrollador Fullstack con experiencia en el desarrollo de aplicaciones web,
 enfocado en la construcción de soluciones escalables, mantenibles y orientadas al usuario.
 </p>
+
+- Web: https://app-portfolio-v2.vercel.app/
 
 ---
 
@@ -82,7 +84,7 @@ enfocado en la construcción de soluciones escalables, mantenibles y orientadas 
 
 ---
 
-### Contact
+### Contacto
 
 📧 **lvcaszelaya@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/lucasivanzelaya/)
