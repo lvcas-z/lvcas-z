@@ -12,7 +12,7 @@ enfocado en la construcción de soluciones escalables, mantenibles y orientadas 
 
 ### Perfil profesional
 
-- Desarrollo de aplicaciones web utilizando **JavaScript, React y Node.js**
+- Desarrollo de aplicaciones web utilizando **Next, React y Node.js**
 - Implementación de APIs REST y arquitecturas backend con **Express**
 - Manejo de bases de datos **relacionales y no relacionales** (MySQL, MongoDB)
 - Control de versiones con **Git y GitHub**
