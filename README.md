@@ -7,6 +7,7 @@ enfocado en la construcción de soluciones escalables, mantenibles y orientadas 
 </p>
 
 - Web: https://app-portfolio-v2.vercel.app/
+- Linkedin: https://www.linkedin.com/in/lucasivanzelaya/
 
 ---
 
