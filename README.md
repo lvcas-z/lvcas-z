@@ -81,9 +81,6 @@ enfocado en la construcción de soluciones escalables, mantenibles y orientadas 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
   </a>
 
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
-  </a>
 
 </p>
 
